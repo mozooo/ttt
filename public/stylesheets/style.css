@@ -1,14 +1,11 @@
 @import url('./slick-default-theme.css');
 
-* {
-  font-family: arial;
-  font-size: 8pt;
-}
-
 body {
-  background: beige;
+  background: #99ccff;
   padding: 0;
-  margin: 8px;
+  margin: 12px;
+  font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  font-size: 12px;
 }
 
 .cell-title {
@@ -35,6 +32,7 @@ body {
 h2 {
   font-size: 16pt;
   border-bottom: 1px dotted gray;
+  padding: 3px;
 }
 
 ul {
