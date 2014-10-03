@@ -164,7 +164,7 @@
       $input.datepicker({
         showOn: "button",
         buttonImageOnly: true,
-        buttonImage: "../images/calendar.gif",
+        buttonImage: "slickgrid/images/calendar.gif",
         beforeShow: function () {
           calendarOpen = true
         },
